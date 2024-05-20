@@ -80,10 +80,10 @@ export default {
 
   PAGE_CONTENTS: {
     HOME: {
-      TITLE: 'Software Developer',
+      TITLE: 'Casual Game Developer',
       DESCRIPTION:
-        "I am a fullstack developer open to continuous improvement. I'm passionate about creating immersive experiences and bringing ideas to life. Thanks to my both frontend and backend experience, I can take part in every stage of the projects.",
-      FULLNAME: 'Ali Karagoz',
+        "As a casual game developer, I navigate the gaming realm with a focus on creating enjoyable and visually appealing experiences. My expertise lies in crafting engaging game mechanics, captivating levels, and effective monetization strategies, all while ensuring a seamless gaming experience for players.",
+      FULLNAME: 'Berkay Caglar',
     },
     WORKS: {
       TITLE: 'Works',

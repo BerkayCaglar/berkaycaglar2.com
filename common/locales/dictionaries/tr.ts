@@ -79,10 +79,10 @@ export default {
 
   PAGE_CONTENTS: {
     HOME: {
-      TITLE: 'Yazılım Geliştirici',
+      TITLE: 'Oyun Geliştirici',
       DESCRIPTION:
-        "Sürekli gelişime açık bir fullstack developer'ım. Sürükleyici deneyimler yaratma ve fikirleri hayata geçirme konusunda tutkuluyum. Hem frontend hem de backend deneyimim sayesinde projelerin her aşamasında yer alabiliyorum.",
-      FULLNAME: 'Ali Karagöz',
+        "Bir oyun geliştiricisi olarak, oyun dünyasında keyifli ve görsel olarak çekici deneyimler yaratmaya odaklanıyorum. Uzmanlığım, oyuncular için kusursuz bir oyun deneyimi sağlarken, ilgi çekici oyun mekanikleri ve etkili para kazanma stratejileri hazırlamakta yatıyor.",
+      FULLNAME: 'Berkay Caglar',
     },
     WORKS: {
       TITLE: 'Çalışmalar',
