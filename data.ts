@@ -1,7 +1,7 @@
 export const photo = 'https://avatars.githubusercontent.com/u/80913896?v=4';
 
 export const about =
-  "It's not that difficult to find my contact information by searching aliblackeye. Know little more about me here";
+  "It's not that difficult to find my contact information by searching Berkay Caglar. Know little more about me here";
 
 export const technologies = [
   {

@@ -4,14 +4,14 @@ import { fonts } from '@fonts/fonts';
 import { Toaster } from '@components/ui/toaster';
 
 // Styles
-import 'swiper/css/bundle';
 import '@styles/globals.scss';
+import 'swiper/css/bundle';
 
 import { ThemeProvider } from '@layouts/theme-provider';
 
 export const metadata = {
-  title: 'Ali Karagoz | Full Stack Developer',
-  description: 'Full Stack Developer',
+  title: 'Berkay Caglar | Casual Game Developer',
+  description: 'Casual Game Developer',
 };
 
 export default function MainLayout({

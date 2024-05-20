@@ -1,6 +1,6 @@
 'use client';
 
-import React, { createElement, useState } from 'react';
+import { createElement, useState } from 'react';
 
 import Image from 'next/image';
 import Link from 'next/link';
@@ -115,9 +115,9 @@ export default function SidebarFooter() {
               color={COLORS.gray[700]}
               weight={WEIGHT.SEMIBOLD}
             >
-              {'aliblackeye' ? (
-                `${capitalize('aliblackeye'?.split('.')[0] || '')}
-              ${capitalize('aliblackeye'?.split('.')[1] || '')}`
+              {'Berkay Caglar' ? (
+                `${capitalize('Berkay Caglar'?.split('.')[0] || '')}
+              ${capitalize('Berkay Caglar'?.split('.')[1] || '')}`
               ) : (
                 <Skeleton className="mb-1 h-3 w-20" />
               )}

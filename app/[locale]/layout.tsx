@@ -2,7 +2,7 @@ import { Providers } from '@layouts/providers';
 
 export const metadata = {
   title: {
-    template: 'Ali Karagöz | %s',
+    template: 'Berkay Caglar | %s',
     default: 'Home', // a default is required when creating a template
   },
 };

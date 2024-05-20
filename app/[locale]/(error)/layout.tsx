@@ -8,7 +8,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
   return {
     title: {
-      template: 'Ali Karagoz | %s',
+      template: 'Berkay Caglar | %s',
       default: t('NOT_FOUND.TITLE'), // a default is required when creating a template
     },
   };
